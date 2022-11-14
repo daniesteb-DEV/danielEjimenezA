@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **angular, flutter, dart**
 
-- 📝 I regularly write articles on [Experiences in my career as a developer](Experiences in my career as a developer)
+- 📝 I regularly write articles on Experiences in my career as a developer
 
 - 💬 Ask me about **java, jsf, wildfly, git, angular, flutter, dart**
 
