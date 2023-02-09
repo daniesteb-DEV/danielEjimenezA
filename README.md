@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Jimenez</h1>
 <h3 align="center">A passionate fullstack developer from Ecuador</h3>
 
-- 🔭 I’m currently working on [GRUPO LPA](https://www.grupolpa.com/?lang=en)
+- 🔭 I’m currently working on [NTT DATA](https://www.nttdata.com/)
 
 - 🌱 I’m currently learning **angular, flutter, dart**
 
